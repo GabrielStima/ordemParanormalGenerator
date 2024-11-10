@@ -1,0 +1,47 @@
+[
+    { 
+      "name": "Combatente",
+      "initPV": 20,
+      "updatePV": 4,
+      "initPE": 2,
+      "updatePE": 2,
+      "initSan": 12,
+      "updateSan": 3,
+      "pericias": {
+        "idPericias": [16,21,10,23],
+        "numberEscolha": 2,
+        "numberPericias": 1
+      },
+      "proficiencias": "Armas simples, armas táticas e proteções leves"
+    }, 
+    { 
+      "name": "Especialista",
+      "initPV": 16,
+      "updatePV": 3,
+      "initPE": 3,
+      "updatePE": 3,
+      "initSan": 16,
+      "updateSan": 4,
+      "pericias": {
+        "idPericias": [],
+        "numberEscolha": 0,
+        "numberPericias": 7
+      },
+      "proficiencias": "Armas simples e proteções leves"
+    }, 
+    { 
+      "name": "Ocultista",
+      "initPV": 12,
+      "updatePV": 2,
+      "initPE": 4,
+      "updatePE": 4,
+      "initSan": 20,
+      "updateSan": 5,
+      "pericias": {
+        "idPericias": [18,28],
+        "numberEscolha": 1,
+        "numberPericias": 3
+      },
+      "proficiencias": "Armas simples"
+    }]
+  

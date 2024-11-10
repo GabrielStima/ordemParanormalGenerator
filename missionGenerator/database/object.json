@@ -1,0 +1,50 @@
+[
+    {
+      "name": "Equipamento",
+      "add": [
+        { "name": "arma" },
+        { "name": "arma" },
+        { "name": "arma" },
+        { "name": "proteção" },
+        { "name": "equipamento geral/acessório" },
+        { "name": "equipamento geral/acessório" }
+      ]
+    },
+    { "name": "Ingrediente para um ritual poderoso" },
+    { "name": "Scanner de anomalias" },
+    { "name": "Projetor holográfico de proteção" },
+    { "name": "Espelho que reflete a verdadeira forma das criaturas" },
+    { "name": "Amuleto que concede invisibilidade temporária" },
+    { "name": "Grimório com rituais de banimento e invocação" },
+    { "name": "Adaga que absorve a força vital das vítimas" },
+    { "name": "Máscara que concede controle mental sobre criaturas" },
+    { "name": "Relógio de bolso que manipula o tempo ao seu redor" },
+    { "name": "Espada que se alimenta de sangue e concede poder ao seu portador" },
+    { "name": "Escudo que reflete maldições e feitiços" },
+    { "name": "Livro que concede conhecimento proibido, mas consome a sanidade do leitor" },
+    { "name": "Colar que concede beleza e juventude, mas drena a energia vital de outros" },
+    {
+      "name": "Equipamento com 1d3–1 modificações",
+      "add": [
+        { "name": "arma" },
+        { "name": "arma" },
+        { "name": "arma" },
+        { "name": "proteção" },
+        { "name": "equipamento geral/acessório" },
+        { "name": "equipamento geral/acessório" }
+      ]
+    },
+    { "name": "Artefato com grande valor para a Ordem" },
+    {
+      "name": "Item amaldiçoado",
+      "add": [
+        { "name": "arma" },
+        { "name": "arma" },
+        { "name": "arma" },
+        { "name": "proteção" },
+        { "name": "equipamento geral/acessório" },
+        { "name": "equipamento geral/acessório" }
+      ]
+    }
+  ]
+  

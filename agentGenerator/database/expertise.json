@@ -1,0 +1,114 @@
+[
+    {
+      "id": 1,
+      "name": "Acrobacia"
+    },
+    {
+      "id": 2,
+      "name": "Adestramento"
+    },
+    {
+      "id": 3,
+      "name": "Artes"
+    },
+    {
+      "id": 4,
+      "name": "Atletismo"
+    },
+    {
+      "id": 5,
+      "name": "Atualidades"
+    },
+    {
+      "id": 6,
+      "name": "Ciências"
+    },
+    {
+      "id": 7,
+      "name": "Crime"
+    },
+    {
+      "id": 8,
+      "name": "Diplomacia"
+    },
+    {
+      "id": 9,
+      "name": "Enganação"
+    },
+    {
+      "id": 10,
+      "name": "Fortitude"
+    },
+    {
+      "id": 11,
+      "name": "Furtividade"
+    },
+    {
+      "id": 12,
+      "name": "Iniciativa"
+    },
+    {
+      "id": 13,
+      "name": "Intimidação"
+    },
+    {
+      "id": 14,
+      "name": "Intuição"
+    },
+    {
+      "id": 15,
+      "name": "Investigação"
+    },
+    {
+      "id": 16,
+      "name": "Luta"
+    },
+    {
+      "id": 17,
+      "name": "Medicina"
+    },
+    {
+      "id": 18,
+      "name": "Ocultismo"
+    },
+    {
+      "id": 19,
+      "name": "Percepção"
+    },
+    {
+      "id": 20,
+      "name": "Pilotagem"
+    },
+    {
+      "id": 21,
+      "name": "Pontaria"
+    },
+    {
+      "id": 22,
+      "name": "Profissão"
+    },
+    {
+      "id": 23,
+      "name": "Reflexos"
+    },
+    {
+      "id": 24,
+      "name": "Religião"
+    },
+    {
+      "id": 25,
+      "name": "Sobrevivência"
+    },
+    {
+      "id": 26,
+      "name": "Tática"
+    },
+    {
+      "id": 27,
+      "name": "Tecnologia"
+    },
+    {
+      "id": 28,
+      "name": "Vontade"
+    }
+  ]

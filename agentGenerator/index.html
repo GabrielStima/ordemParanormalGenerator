@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ordem Paranormal Generator</title>
+    <link rel="icon" href="../img/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Syne+Mono&display=swap" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+</head>
+<body onload="getPersona()">
+    <nav class="menu">
+        <div class='logo-container'>
+          <a href="../index.html">
+            <div class='logo'></div>
+          </a>
+        </div>
+        <a class="link-container hover" href="./index.html">
+          <div class="link-item">
+            Gerador de Agente
+          </div>
+        </a>       
+          <a class="link-container" href="../missionGenerator/index.html">
+            <div class="link-item">
+              Gerador de Missão
+            </div>
+          </a>
+    </nav>
+    <div class="title-container">
+      <h1>GERADOR DE AGENTES</h1>
+      <div class="refresh-button" onclick={getPersona()}>Refresh</div>
+    </div>
+    <div class="conteudo">
+      <div class="container">
+        <h2>Informações Basicas</h2>
+        <p><b>Nome:</b> <span id="nome"></span></p>
+        <p><b>Idade:</b> <span id="idade"></span></p>
+        <p><b>Aniversário:</b> <span id="aniversario"></span></p>
+        <p><b>Origem:</b> <span id="origem"></span></p>
+        <p><b>Evento inicial:</b> <span id="evento"></span></p>
+        <p><b>Traços de personalidade:</b> <span id="personalidade"></span></p>
+        <p><b>NEX:</b> <span id="nex"></span></p>
+        <p><b>Limite PE:</b> <span id="limite-pe"></span></p>
+      </div>
+      <div class="status-container">
+        <div class="status">
+          <p>Força</p>
+          <span id="forca"></span>
+        </div>
+        <div class="status">
+          <p>Agilidade</p>
+          <span id="agilidade"></span>
+        </div>
+        <div class="status">
+          <p>Intelecto</p>
+          <span id="intelecto"></span>
+        </div>
+        <div class="status">
+          <p>Vigor</p>
+          <span id="vigor"></span>
+        </div>
+        <div class="status">
+          <p>Presença</p>
+          <span id="presenca"></span>
+        </div>
+      </div>
+      <div class="container">
+        <h2>Classe: <span id="classe"></span></h2>
+        <p><b>Pontos de Vida:</b> <span id="pv"></span></p>
+        <p><b>Pontos de Esforço:</b> <span id="pe"></span></p>
+        <p><b>Sanidade:</b> <span id="san"></span></p>
+        <p><b>Proficiencias:</b> <span id="proficiencias"></span></p>
+      </div>
+      <div class="container">
+        <h2>Descrição Fisica</h2>
+        <p><b>Altura:</b> <span id="altura"></span></p>
+        <p><b>Peso:</b> <span id="peso"></span></p>
+        <p><b>Cabelo:</b> <span id="cabelo"></span></p>
+        <p><b>Olhos:</b> <span id="olhos"></span></p>
+        <p><b>Pele:</b> <span id="pele"></span></p>
+      </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>

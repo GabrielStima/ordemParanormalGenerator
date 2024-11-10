@@ -1,0 +1,21 @@
+[
+    { "name": "Civil alheio ao paranormal" },
+    { "name": "Civil exposto ao paranorma" },
+    { "name": "Antigo conhecido de um dos agentes" },
+    { "name": "Um médium Investigador" },
+    { "name": "Exorcista Religioso" },
+    { "name": "Agente de Outra Organização" },
+    { "name": "Inteligência Artificial Consciente" },
+    { "name": "Criança com Poderes Ocultistas" },
+    { "name": "Arqueólogo" },
+    { "name": "Médico com Conhecimento de Anatomia Sobrenatural" },
+    { "name": "Sobrevivente de Experimentos Paranormais" },
+    { "name": "Bibliotecário com Acesso a Tomos Proibidos" },
+    { "name": "Político com Ligações com Sociedades Secretas" },
+    { "name": "Líder de uma Comunidade Isolada" },
+    {
+      "name": "Outro agente da Ordo Realitas",
+      "add": [{ "name": "Aposentado" }, { "name": "Na ativa" }]
+    }
+  ]
+  

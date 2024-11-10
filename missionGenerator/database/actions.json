@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Invocou uma criatura de propósito",
+      "add": [
+        { "name": "Sangue" },
+        { "name": "Morte" },
+        { "name": "Conhecimento" },
+        { "name": "Energia" }
+      ]
+    },
+    {
+      "name": "Invocou uma criatura sem querer",
+      "add": [
+        { "name": "Sangue" },
+        { "name": "Morte" },
+        { "name": "Conhecimento" },
+        { "name": "Energia" }
+      ]
+    },
+    { "name": "Está sequestrando inocentes" },
+    { "name": "Está assassinando inocentes" },
+    {
+      "name": "Está usando um ritual ou item amaldiçoado para cometer crimes mundanos (roubo, extorsão...)"
+    },
+    { "name": "Está recrutando cultistas" },
+    { "name": "Está pesquisando um ritual perigoso" },
+    { "name": "Está coletando itens amaldiçoados" },
+    { "name": "Matou um agente da Ordo Realitas" },
+    { "name": "Está possuindo pessoas de alguma forma" },
+    { "name": "Está construindo uma máquina para amplificar poderes paranormais" },
+    { "name": "Está realizando experimentos científicos ilegais" },
+    { "name": "Planeja um massacre ritualístico" },
+    { "name": "Enlouqueceu após contato com o Outro Lado" },
+    { "name": "Está criando um culto em uma cidade isolada" },
+    { "name": "Fundiu tecnologia com criaturas paranormais" },
+    { "name": "Está sacrificando pessoas para alimentar uma criatura" },
+    { "name": "Está corrompendo um local sagrado" }
+  ]
+  

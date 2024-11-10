@@ -1,0 +1,82 @@
+[
+    {
+      "nex": "5%",
+      "limitePE": 1
+    },
+    {
+      "nex": "10%",
+      "limitePE": 2
+    },
+    {
+      "nex": "15%",
+      "limitePE": 3
+    },
+    {
+      "nex": "20%",
+      "limitePE": 4
+    },
+    {
+      "nex": "25%",
+      "limitePE": 5
+    },
+    {
+      "nex": "30%",
+      "limitePE": 6
+    },
+    {
+      "nex": "35%",
+      "limitePE": 7
+    },
+    {
+      "nex": "40%",
+      "limitePE": 8
+    },
+    {
+      "nex": "45%",
+      "limitePE": 9
+    },
+    {
+      "nex": "50%",
+      "limitePE": 10
+    },
+    {
+      "nex": "55%",
+      "limitePE": 11
+    },
+    {
+      "nex": "60%",
+      "limitePE": 12
+    },
+    {
+      "nex": "65%",
+      "limitePE": 13
+    },
+    {
+      "nex": "70%",
+      "limitePE": 14
+    },
+    {
+      "nex": "75%",
+      "limitePE": 15
+    },
+    {
+      "nex": "80%",
+      "limitePE": 16
+    },
+    {
+      "nex": "85%",
+      "limitePE": 17
+    },
+    {
+      "nex": "90%",
+      "limitePE": 18
+    },
+    {
+      "nex": "95%",
+      "limitePE": 19
+    },
+    {
+      "nex": "99%",
+      "limitePE": 20
+    }
+  ]

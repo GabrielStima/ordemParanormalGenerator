@@ -1,0 +1,139 @@
+[
+    {
+      "name": "Escola",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Hospital",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Vilarejo",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Fazenda",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Mata fechada",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Becos de metrópole",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Arranha-céu",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Grande loja de departamento",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Esgoto",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Zona industrial da cidade",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Shopping center",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Orfanato",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Museu",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Cemitério",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Delegacia ou base militar",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Mansão",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Antiga sede da Ordo Realitas",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Navio",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Teatro",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Parque de diversões",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Zoológico",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Estação de metrô",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Biblioteca pública",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Universidade com departamento de ocultismo",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Prisão",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Asilo mental",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Pântano",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Floresta",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Caverna",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Lago",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Campo de batalha antigo",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Santuário",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Realidade virtual",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    },
+    {
+      "name": "Ilha remota",
+      "add": [{ "name": "Habitado" }, { "name": "Abandonado" }]
+    }
+  ]
+  

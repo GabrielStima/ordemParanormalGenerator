@@ -1,0 +1,19 @@
+[
+    { "name": "Inocente curioso" },
+    { "name": "Criminoso" },
+    { "name": "Pessoa influente (magnata, político…)" },
+    { "name": "Bando cultista" },
+    { "name": "Cultista independente" },
+    { "name": "Ex-agente da Ordo Realitas" },
+    { "name": "Item amaldiçoado" },
+    {
+      "name": "Criatura paranormal",
+      "add": [
+        { "name": "Sangue" },
+        { "name": "Morte" },
+        { "name": "Conhecimento" },
+        { "name": "Energia" }
+      ]
+    }
+  ]
+  
