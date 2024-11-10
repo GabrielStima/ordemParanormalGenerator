@@ -97,40 +97,6 @@ body{
     color: white;
 }
 
-.status-container{
-    margin: 20px 10px;
-    border-radius: 10px;
-    padding: 10px 25px;
-    width: 42vw;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    color: white;
-}
-.status{
-    width: 8rem;
-    height: 8rem;
-    background-color: #560303;
-    border-radius: 50%;
-    color: white;
-    text-align: center;
-}
-.status span{
-    font-size: 45px;
-}
-@media (max-width: 1024px) {
-    .status{
-        width: 5rem;
-        height: 5rem;
-    }
-    .status p{
-        margin-bottom: .5em;
-    }
-    .status span{
-        font-size: 20px;
-    }
-}
 @media (max-width: 768px) {
     .container{
         margin: 10px;
@@ -139,9 +105,6 @@ body{
     .title-container{
         margin: 10px;
         padding: 0;
-    }
-    .status-container{
-        width: 100%;
     }
 }
 @media (max-width: 654px) {
@@ -176,8 +139,5 @@ body{
     }
     .title-container h1{
         font-size: 1.5rem;
-    }
-    .status-container{
-        padding: 0px;
     }
 }
